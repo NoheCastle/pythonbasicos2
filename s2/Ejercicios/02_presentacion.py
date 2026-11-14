@@ -1,0 +1,6 @@
+print("-------------------------------------------")
+print("Mi presentación")
+print("Ruth Mora")
+print("Soy de Managua")
+print ("Tengo 27 años")
+print("Estudio Python porque quiero ser analista de datos")
